@@ -1,0 +1,11 @@
+# Binários compilados
+*.exe
+roteador
+
+# Arquivos temporários de execução e simulação local
+sim/
+*.log
+seq.txt
+roteadores.txt
+peers.txt
+.gotmp/
