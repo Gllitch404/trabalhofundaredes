@@ -9,3 +9,7 @@ seq.txt
 roteadores.txt
 peers.txt
 .gotmp/
+
+# Pacote de entrega gerado localmente
+entrega/
+entrega_linkstate.zip
